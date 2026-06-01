@@ -8,7 +8,7 @@ Currently working with **Next.js + NestJS** stack.
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58a6ff&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=henruysun2511&color=58a6ff&style=flat)
 
 </div>
 
@@ -79,9 +79,9 @@ Currently working with **Next.js + NestJS** stack.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henruysun2511&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=henruysun2511&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=henruysun2511&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=henruysun2511&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=henruysun2511&theme=tokyonight&hide_border=true)
 
