@@ -8,7 +8,6 @@ Currently working with **Next.js + NestJS** stack.
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=henruysun2511&color=58a6ff&style=flat)
 
 </div>
 
@@ -31,11 +30,11 @@ Currently working with **Next.js + NestJS** stack.
 
 ### 🔄 State / Data Fetching / Validation
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![RTK Query](https://img.shields.io/badge/RTK_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-F59E0B?style=for-the-badge&logoColor=black)
+![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-F59E0B?style=for-the-badge&logo=zustand&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3B82F6?style=for-the-badge&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3B82F6?style=for-the-badge&logo=zod&logoColor=white)
 
 ---
 
@@ -47,17 +46,17 @@ Currently working with **Next.js + NestJS** stack.
 
 ### 🔐 Auth
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth_2.0-F9731E?style=for-the-badge&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth_2.0-F9731E?style=for-the-badge&logo=oauth&logoColor=white)
 
 ### 📦 Caching / Queue / Realtime
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-F97316?style=for-the-badge&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-F97316?style=for-the-badge&logo=redis&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![SSE](https://img.shields.io/badge/Server--Sent_Events-A78BFA?style=for-the-badge&logoColor=white)
+![SSE](https://img.shields.io/badge/Server--Sent_Events-A78BFA?style=for-the-badge&logo=html5&logoColor=white)
 
 ### ☁️ Upload / Webhook / Payment
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Sepay](https://img.shields.io/badge/Sepay_Webhook-00C853?style=for-the-badge&logoColor=white)
+![Sepay](https://img.shields.io/badge/Sepay_Webhook-00C853?style=for-the-badge&logo=stripe&logoColor=white)
 
 ---
 
