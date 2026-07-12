@@ -90,6 +90,61 @@ Currently working with **Next.js + NestJS** stack.
 
 ## 📌 Featured Projects
 
+### 📝 [iTEST](https://github.com/henruysun2511/itest)
+**Nền tảng thi trực tuyến cho Học viện Ngân hàng**
+ 
+- 🤖 Sinh đề thi tự động bằng AI (Gemini) từ file PDF — chia chunk có overlap, xử lý song song, gộp và khử trùng lặp câu hỏi
+- 🖊️ Exam Editor phân cấp Part → QuestionGroup → Question, hỗ trợ nhiều loại câu hỏi, media và công thức toán (KaTeX)
+- 🎥 Giám sát gian lận real-time qua camera (MediaPipe FaceMesh) — phát hiện 7 hành vi: rời tab, mất khuôn mặt, nhiều người, quay mặt, đổi IP...
+- ❤️ Cơ chế heartbeat 5s + auto-save draft mỗi 10s, tự khôi phục bài làm khi mất kết nối
+- ⏸️ Giám thị can thiệp real-time qua SSE — cảnh cáo, khiển trách, đình chỉ, tạm dừng/tiếp tục toàn ca hoặc từng thí sinh
+- 📊 Chấm điểm tự động trắc nghiệm + chấm tay bài luận, thống kê kết quả theo ca thi
+
+Frontend: `Next.js 16` `React 19` `TypeScript` `Ant Design` `Tailwind CSS` `Tanstack Query` `Zustand` `Axios` `SSE` `MediaPipe FaceMesh & Detection`
+Backend: `NestJs` `Redis` `BullMQ` `Prisma` `Supabase`
+ 
+
+### 🎵 [NovaWave](https://github.com/henruysun2511/novawave)
+**Nền tảng nghe nhạc trực tuyến**
+ 
+- 🌊 Đồng bộ 2 chiều giữa thanh tiến trình và waveform (WaveSurfer.js) — kéo thanh hoặc chạm sóng đều cập nhật vị trí phát
+- 💬 Bình luận gắn theo mốc thời gian bài hát, avatar hiển thị ngay trên sóng nhạc tại điểm bình luận
+- 🏠 Phòng nghe nhạc chung real-time qua WebSocket — đồng bộ play/pause/tua giữa nhiều thành viên, chat, yêu cầu bài hát, kick/ban
+- ❤️ Thả tim bài hát với Optimistic UI — cập nhật giao diện ngay, tự rollback nếu request lỗi
+- 🎤 Luồng đăng ký nghệ sĩ có xác minh bởi Admin, upload nhạc qua Cloudinary
+- 💎 Cơ chế Premium — chặn quảng cáo giữa các bài hát, không giới hạn nghe liên tục
+
+Frontend: `Next.js 16` `React 19` `TypeScript` `Ant Design` `Tailwind CSS` `Tanstack Query` `Zustand` `Axios` `Socket.IO` `WaveSurfer.js`
+Backend: `NestJs` `MongoDB`
+ 
+
+### 🎬 [BingeBox](https://github.com/henruysun2511/BingeBox_Project)
+**Nền tảng đặt vé xem phim trực tuyến**
+ 
+- 💺 Sơ đồ ghế real-time qua Socket.IO — giữ ghế tạm thời, tự giải phóng khi hủy/mất kết nối, đồng bộ trạng thái tức thì cho mọi người xem cùng suất
+- 🧩 Trình chỉnh sửa sơ đồ ghế trực quan cho admin — hỗ trợ ghế đôi, ô trống, bố cục bất đối xứng theo từng phòng chiếu thực tế
+- 🏷️ Tính giá vé đa chiều — kết hợp loại ghế, định dạng phòng (2D/3D/IMAX), khung giờ, thứ trong tuần và nhóm tuổi
+- 💳 Quy trình thanh toán đầy đủ — chọn ghế → đồ ăn → voucher/điểm thành viên → tạo đơn trong MongoDB Transaction → sinh vé QR
+- 🛡️ Trang quản trị 25+ module: phim, rạp, phòng chiếu, suất chiếu, voucher, blog, thống kê doanh thu trực quan
+
+Frontend: `Next.js 16` `React 19` `TypeScript` `Shadcn` `Tailwind CSS` `Tanstack Query` `Zustand` `Axios` `Zod` `Socket.IO` 
+Backend: `ExpressJs` `MongoDB`
+
+
+
+### 🌞 [SOLARN](https://github.com/henruysun2511/solarn) 
+**Hệ thống quản lý trung tâm Anh ngữ**
+ 
+- 🎭 Phân quyền 3 vai trò rõ ràng — Admin, Giáo viên, Học viên với middleware guard riêng cho từng cổng
+- 🏫 Quản lý lớp học toàn diện — xếp lịch, phân công giáo viên, theo dõi sĩ số/tiến độ, chi tiết từng buổi học
+- 💰 Module tài chính — học phí, hóa đơn, lương giáo viên, xử lý khiếu nại lương
+- 📝 Điểm danh & bài tập — giáo viên điểm danh, giao bài, chấm điểm; học viên xem kết quả và tài liệu khóa học
+- 🔔 Trung tâm xử lý yêu cầu — đơn xin nghỉ, chuyển lớp, thay đổi lịch học đều có luồng duyệt riêng
+- 📊 Dashboard đa dạng theo vai trò — tổng quan, tài chính, giám sát hoạt động, đào tạo
+
+`Next.js 16` `React 19` `TypeScript` `Shadcn` `Tailwind CSS` `Tanstack Query` `Zustand` `Axios` `Zod`
+ 
+
 
 ---
 
