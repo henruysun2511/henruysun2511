@@ -38,7 +38,7 @@ Currently working with **Next.js + NestJS** stack.
 
 ---
 
-## ⚙️ Backend
+## ⚙️ Backend (IN PROGRESS)
 
 ### 🚀 Frameworks
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -90,12 +90,11 @@ Currently working with **Next.js + NestJS** stack.
 
 ## 📌 Featured Projects
 
-> _(Pin 4–6 repo nổi bật nhất lên profile qua Settings → Customize your pins)_
 
 ---
 
 ## 📬 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henruysun2511)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huysun2511@email.com)
