@@ -120,7 +120,7 @@ Frontend: `Next.js 16` `React 19` `TypeScript` `Ant Design` `Tailwind CSS` `Tans
 Backend: `NestJs` `MongoDB`
  
 
-### 🎬 [BingeBox](https://github.com/henruysun2511/BingeBox_Project)
+### 🎬 [BingeBox](https://github.com/henruysun2511/bingebox)
 **Nền tảng đặt vé xem phim trực tuyến**
  
 - 💺 Sơ đồ ghế real-time qua Socket.IO — giữ ghế tạm thời, tự giải phóng khi hủy/mất kết nối, đồng bộ trạng thái tức thì cho mọi người xem cùng suất
