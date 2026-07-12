@@ -101,6 +101,7 @@ Currently working with **Next.js + NestJS** stack.
 - 📊 Chấm điểm tự động trắc nghiệm + chấm tay bài luận, thống kê kết quả theo ca thi
 
 Frontend: `Next.js 16` `React 19` `TypeScript` `Ant Design` `Tailwind CSS` `Tanstack Query` `Zustand` `Axios` `SSE` `MediaPipe FaceMesh & Detection`
+<br />
 Backend: `NestJs` `Redis` `BullMQ` `Prisma` `Supabase`
  
 
@@ -115,6 +116,7 @@ Backend: `NestJs` `Redis` `BullMQ` `Prisma` `Supabase`
 - 💎 Cơ chế Premium — chặn quảng cáo giữa các bài hát, không giới hạn nghe liên tục
 
 Frontend: `Next.js 16` `React 19` `TypeScript` `Ant Design` `Tailwind CSS` `Tanstack Query` `Zustand` `Axios` `Socket.IO` `WaveSurfer.js`
+<br />
 Backend: `NestJs` `MongoDB`
  
 
@@ -128,6 +130,7 @@ Backend: `NestJs` `MongoDB`
 - 🛡️ Trang quản trị 25+ module: phim, rạp, phòng chiếu, suất chiếu, voucher, blog, thống kê doanh thu trực quan
 
 Frontend: `Next.js 16` `React 19` `TypeScript` `Shadcn` `Tailwind CSS` `Tanstack Query` `Zustand` `Axios` `Zod` `Socket.IO` 
+<br />
 Backend: `ExpressJs` `MongoDB`
 
 
