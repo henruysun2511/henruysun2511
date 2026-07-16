@@ -131,6 +131,7 @@ Backend: `NestJs` `MongoDB`
 - 📈 Thống kê chi tiết — heatmap học tập 12 tháng, dự báo ôn tập 30 ngày, lịch sử review log từng thẻ
 - 👥 Cộng đồng — chia sẻ/clone bộ thẻ công khai, đánh giá 5 sao, bài viết, bình luận theo luồng, follow người dùng
 - 🏆 Gamification — huy hiệu, điểm kinh nghiệm, deck nổi bật (featured) do admin gắn cờ
+<br />
 Frontend: `Next.js 16` `React 19` `TypeScript` `Shadcn` `Tailwind CSS` `TanStack Query` `Zustand` `Axios` `Zod` `shadcn/ui` 
 <br />
 Backend: `NestJs` `Redis` `BullMQ` `Prisma` `Supabase` `Oauth 2.0` `Swagger` `Cloudinary`
