@@ -102,7 +102,7 @@ Currently working with **Next.js + NestJS** stack.
 
 Frontend: `Next.js 16` `React 19` `TypeScript` `Ant Design` `Tailwind CSS` `Tanstack Query` `Zustand` `Axios` `SSE` `MediaPipe FaceMesh & Detection`
 <br />
-Backend: `NestJs` `Redis` `BullMQ` `Prisma` `Supabase`
+Backend: `NestJs` `Redis` `BullMQ` `Prisma` `Supabase` `Cloudinary`
  
 
 ### 🎵 [NovaWave](https://github.com/henruysun2511/novawave)
@@ -117,7 +117,7 @@ Backend: `NestJs` `Redis` `BullMQ` `Prisma` `Supabase`
 
 Frontend: `Next.js 16` `React 19` `TypeScript` `Ant Design` `Tailwind CSS` `Tanstack Query` `Zustand` `Axios` `Socket.IO` `WaveSurfer.js`
 <br />
-Backend: `NestJs` `MongoDB`
+Backend: `NestJs` `MongoDB` 
 
 ### 📚 [RECALIO](https://github.com/henruysun2511/recalio)
 **Nền tảng học từ vựng bằng phương pháp lặp lại ngắt quãng (Spaced Repetition)**
@@ -133,7 +133,7 @@ Backend: `NestJs` `MongoDB`
 - 🏆 Gamification — huy hiệu, điểm kinh nghiệm, deck nổi bật (featured) do admin gắn cờ
 Frontend: `Next.js 16` `React 19` `TypeScript` `Shadcn` `Tailwind CSS` `TanStack Query` `Zustand` `Axios` `Zod` `shadcn/ui` 
 <br />
-Backend: `NestJs` `Redis` `BullMQ` `Prisma` `Supabase` `Oauth 2.0` `Swagger`
+Backend: `NestJs` `Redis` `BullMQ` `Prisma` `Supabase` `Oauth 2.0` `Swagger` `Cloudinary`
  
 
 ### 🎬 [BingeBox](https://github.com/henruysun2511/bingebox)
