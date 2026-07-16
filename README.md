@@ -118,6 +118,22 @@ Backend: `NestJs` `Redis` `BullMQ` `Prisma` `Supabase`
 Frontend: `Next.js 16` `React 19` `TypeScript` `Ant Design` `Tailwind CSS` `Tanstack Query` `Zustand` `Axios` `Socket.IO` `WaveSurfer.js`
 <br />
 Backend: `NestJs` `MongoDB`
+
+### 📚 [RECALIO](https://github.com/henruysun2511/recalio)
+**Nền tảng học từ vựng bằng phương pháp lặp lại ngắt quãng (Spaced Repetition)**
+ 
+- 🧠 Hai thuật toán ôn tập SM-2 và FSRS, cấu hình riêng theo từng deck (learning steps, leech threshold, request retention, FSRS weights...)
+- 🎴 Phiên ôn tập full-screen với hiệu ứng lật thẻ 3D, 4 mức đánh giá (Again/Hard/Good/Easy) và chế độ Type-answer để ghi nhớ chủ động
+- 🃏 4 loại mẫu thẻ linh hoạt — Basic, Basic Reversed, Cloze (điền khuyết), Image Occlusion (che/mở ảnh bằng SVG overlay theo nhóm)
+- 🤖 AI sinh từ vựng đa nguồn — từ văn bản, theo chủ đề, nhận diện qua hình ảnh, hoặc auto-fill IPA/nghĩa/ví dụ chỉ với một cú click
+- 📄 Trích xuất từ vựng hàng loạt từ PDF (AI) và import CSV, có bước preview trước khi lưu vào deck
+- 🔊 Tự sinh audio phát âm 3 lớp — cache DB → Dictionary API → fallback Google TTS, lưu trữ qua Cloudinary
+- 📈 Thống kê chi tiết — heatmap học tập 12 tháng, dự báo ôn tập 30 ngày, lịch sử review log từng thẻ
+- 👥 Cộng đồng — chia sẻ/clone bộ thẻ công khai, đánh giá 5 sao, bài viết, bình luận theo luồng, follow người dùng
+- 🏆 Gamification — huy hiệu, điểm kinh nghiệm, deck nổi bật (featured) do admin gắn cờ
+Frontend: `Next.js 16` `React 19` `TypeScript` `Shadcn` `Tailwind CSS` `TanStack Query` `Zustand` `Axios` `Zod` `shadcn/ui` 
+<br />
+Backend: `NestJs` `Redis` `BullMQ` `Prisma` `Supabase` `Oauth 2.0` `Swagger`
  
 
 ### 🎬 [BingeBox](https://github.com/henruysun2511/bingebox)
