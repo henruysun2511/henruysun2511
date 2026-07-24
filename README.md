@@ -170,7 +170,7 @@ Backend: `ExpressJs` `MongoDB`
 
 ## 📬 Connect with me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=codeforces&logoColor=white)](https://your-portfolio.com)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=codeforces&logoColor=white)](https://your-portfolio.com) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhat-huy-dang-455568328/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henruysun2511)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huysun2511@email.com)
